@@ -3,7 +3,7 @@
 <br><br>
     <br><br>
 <pre>
-    💼 Università degli Studi di Napoli Federico II 
+    💼 Università degli Studi di Napoli Federico II // Università degli Studi di Salerno
     💻 Computer Science •
     📖 Math lover • 
     🎮 Music • Games • Anime • Code • Art • Books •
